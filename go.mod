@@ -1,4 +1,4 @@
-module github.com/woopinbell/rolltrace
+module github.com/seungwoo7050/rolltrace
 
 go 1.26.0
 
